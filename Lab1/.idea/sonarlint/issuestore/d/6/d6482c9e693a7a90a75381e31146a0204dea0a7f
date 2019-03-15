@@ -1,0 +1,29 @@
+
+[squid:S1197"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿ8ˆß¸‘“-
+isquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(ˆÉ˜–8ˆß¸‘“-
+nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(˜ø²·ıÿÿÿÿ8ˆß¸‘“-
+hsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ıÈº8ˆß¸‘“-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(µÏ…èùÿÿÿÿ8ˆß¸‘“-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(µÏ…èùÿÿÿÿ8ˆß¸‘“-
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(™¿ß¡8ˆß¸‘“-
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(™¿ß¡8ˆß¸‘“-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(µÏ…èùÿÿÿÿ8ˆß¸‘“-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(íË˜ÿÿÿÿÿ8ˆß¸‘“-
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(ğı¸Ò8ˆß¸‘“-
+Jsquid:S1481"'Remove this unused "x8" local variable.(÷—º¡ÿÿÿÿÿ8ˆß¸‘“-
+Jsquid:S1481"'Remove this unused "y8" local variable.(¡—§©ıÿÿÿÿ8ˆß¸‘“-
+Jsquid:S1481"'Remove this unused "z8" local variable.(á×½šşÿÿÿÿ8ˆß¸‘“-
+Jsquid:S1481"'Remove this unused "t8" local variable.(À¬Ä‘úÿÿÿÿ8ˆß¸‘“-
+lsquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(€¨±ø8ˆß¸‘“-
+Ysquid:S1854"6Remove this useless assignment to local variable "t8".(À¬Ä‘úÿÿÿÿ8ˆß¸‘“-
+Ysquid:S1854"6Remove this useless assignment to local variable "z8".(á×½šşÿÿÿÿ8ˆß¸‘“-
+Ysquid:S1854"6Remove this useless assignment to local variable "y8".(¡—§©ıÿÿÿÿ8ˆß¸‘“-
+Ysquid:S1854"6Remove this useless assignment to local variable "x8".(÷—º¡ÿÿÿÿÿ8ˆß¸‘“-
+Ysquid:S1854"6Remove this useless assignment to local variable "x3".(ÜªË‰ûÿÿÿÿ8ˆß¸‘“-

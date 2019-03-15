@@ -1,0 +1,36 @@
+
+Bsquid:S1659$"Declare "b" on a separate line.(…‹‚Òüÿÿÿÿ8‡÷“‘“-
+>squid:S1659&" Declare "s4" on a separate line.(Ï²ïÿ8‡÷“‘“-
+Csquid:S1659'" Declare "i2" on a separate line.(’¬†’úÿÿÿÿ8‡÷“‘“-
+Csquid:S1659'" Declare "i3" on a separate line.(’¬†’úÿÿÿÿ8‡÷“‘“-
+Csquid:S1659*" Declare "b2" on a separate line.(Ú—˜Âÿÿÿÿÿ8‡÷“‘“-
+>squid:S1659+" Declare "s2" on a separate line.(¦úæÔ8‡÷“‘“-
+[squid:S1197"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿ8‡÷“‘“-
+nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ºŠÎçÿÿÿÿÿ8‡÷“‘“-
+isquid:CommentedOutCodeLine "<This block of commented-out lines of code should be removed.(ò˜ˆ’8‡÷“‘“-
+hsquid:CommentedOutCodeLine%"<This block of commented-out lines of code should be removed.(†Íë78‡÷“‘“-
+nsquid:CommentedOutCodeLine,"<This block of commented-out lines of code should be removed.(ÙŞ“·ÿÿÿÿÿ8‡÷“‘“-
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(—ÿº¦8‡÷“‘“-
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(ô¤„å8‡÷“‘“-
+Isquid:S1481"&Remove this unused "y" local variable.(¼Ê„†ıÿÿÿÿ8‡÷“‘“-
+Isquid:S1481"&Remove this unused "x" local variable.(èé‹üûÿÿÿÿ8‡÷“‘“-
+Psquid:S1481"2Remove this unused "onlyOneBranch" local variable.(ÜË¥8‡÷“‘“-
+Isquid:S1481$"&Remove this unused "a" local variable.(…‹‚Òüÿÿÿÿ8‡÷“‘“-
+Isquid:S1481$"&Remove this unused "b" local variable.(…‹‚Òüÿÿÿÿ8‡÷“‘“-
+Esquid:S1481&"'Remove this unused "s3" local variable.(Ï²ïÿ8‡÷“‘“-
+Esquid:S1481&"'Remove this unused "s4" local variable.(Ï²ïÿ8‡÷“‘“-
+Jsquid:S1481'"'Remove this unused "i1" local variable.(’¬†’úÿÿÿÿ8‡÷“‘“-
+Jsquid:S1481'"'Remove this unused "i2" local variable.(’¬†’úÿÿÿÿ8‡÷“‘“-
+Jsquid:S1481'"'Remove this unused "i3" local variable.(’¬†’úÿÿÿÿ8‡÷“‘“-
+Jsquid:S1481*"'Remove this unused "b1" local variable.(Ú—˜Âÿÿÿÿÿ8‡÷“‘“-
+Jsquid:S1481*"'Remove this unused "b2" local variable.(Ú—˜Âÿÿÿÿÿ8‡÷“‘“-
+Esquid:S1481+"'Remove this unused "s1" local variable.(¦úæÔ8‡÷“‘“-
+Esquid:S1481+"'Remove this unused "s2" local variable.(¦úæÔ8‡÷“‘“-
+lsquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÒùÏÄ8‡÷“‘“-
+Xsquid:S1854"5Remove this useless assignment to local variable "y".(¼Ê„†ıÿÿÿÿ8‡÷“‘“-
+dsquid:S1854"ARemove this useless assignment to local variable "onlyOneBranch".(ü§Ÿıÿÿÿÿ8‡÷“‘“-
+Tsquid:S1854+"6Remove this useless assignment to local variable "s1".(¦úæÔ8‡÷“‘“-
+Tsquid:S1854&"6Remove this useless assignment to local variable "s4".(Ï²ïÿ8‡÷“‘“-
+Tsquid:S1854&"6Remove this useless assignment to local variable "s3".(Ï²ïÿ8‡÷“‘“-

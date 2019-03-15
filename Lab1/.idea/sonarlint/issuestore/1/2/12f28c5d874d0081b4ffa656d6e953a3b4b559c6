@@ -1,0 +1,69 @@
+
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÕÇÕûÿÿÿÿ8ó¹‘“-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(ŞÒ—üÿÿÿÿ8ó¹‘“-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÕÇÕûÿÿÿÿ8ó¹‘“-
+V
+squid:S1061"9Replace this use of System.out or System.err by a logger.(óš´8ó¹‘“-
+qsquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(€ÓÚ½ÿÿÿÿÿ8ó¹‘“-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÕÇÕûÿÿÿÿ8ó¹‘“-
+[
+squid:S106{"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8ó¹‘“-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÕÇÕûÿÿÿÿ8ó¹‘“-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÕÇÕûÿÿÿÿ8ó¹‘“-
+V
+squid:S1067"9Replace this use of System.out or System.err by a logger.(¨³¬ï8ó¹‘“-
+V
+squid:S106O"9Replace this use of System.out or System.err by a logger.(ÜÚ©‚8ó¹‘“-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(ŞÒ—üÿÿÿÿ8ó¹‘“-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÕÇÕûÿÿÿÿ8ó¹‘“-
+V
+squid:S106-"9Replace this use of System.out or System.err by a logger.(»®õŠ8ó¹‘“-
+\
+squid:S106‰"9Replace this use of System.out or System.err by a logger.(¯Å‰òûÿÿÿÿ8ó¹‘“-
+Csquid:S1481\"&Remove this unused "z" local variable.(»À„C8ó¹‘“-
+U
+squid:S106_"9Replace this use of System.out or System.err by a logger.(ç¢z8ó¹‘“-
+[
+squid:S106H"9Replace this use of System.out or System.err by a logger.(£õİ€ÿÿÿÿÿ8ó¹‘“-
+Vsquid:S2589P"8Remove this expression which always evaluates to "false"(±¬ÙÊ8ó¹‘“-
+wsquid:S1192"TDefine a constant instead of duplicating this literal "-------------------" 7 times.(ÕÇÕûÿÿÿÿ8ó¹‘“-
+[
+squid:S106	"9Replace this use of System.out or System.err by a logger.(ÕÇÕûÿÿÿÿ8ó¹‘“-
+[
+squid:S106j"9Replace this use of System.out or System.err by a logger.(ºˆî÷şÿÿÿÿ8ó¹‘“-
+[
+squid:S106+"9Replace this use of System.out or System.err by a logger.(…ì×ÿÿÿÿÿ8ó¹‘“-
+[
+squid:S106X"9Replace this use of System.out or System.err by a logger.(™Å¡ñüÿÿÿÿ8ó¹‘“-
+[
+squid:S106]"9Replace this use of System.out or System.err by a logger.(ñŞÀàıÿÿÿÿ8ó¹‘“-
+[squid:S1197"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿ8ó¹‘“-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(ŞÒ—üÿÿÿÿ8ó¹‘“-
+s squid:LabelsShouldNotBeUsedCheckr";Refactor the code to remove this label and the need for it.(¹œ‘ßÿÿÿÿÿ8ó¹‘“-
+Rsquid:S1854\"5Remove this useless assignment to local variable "z".(»À„C8ó¹‘“-
+n squid:LabelsShouldNotBeUsedChecks";Refactor the code to remove this label and the need for it.(ôÏÌ¢8ó¹‘“-
+U
+squid:S106:"9Replace this use of System.out or System.err by a logger.(ê÷ƒD8ó¹‘“-
+[
+squid:S106="9Replace this use of System.out or System.err by a logger.(×¥‘ùÿÿÿÿ8ó¹‘“-
+7squid:S1065s"Remove this unused label.(ôÏÌ¢8ó¹‘“-
+[
+squid:S106M"9Replace this use of System.out or System.err by a logger.(ŸÃÙ½úÿÿÿÿ8ó¹‘“-
+V
+squid:S106)"9Replace this use of System.out or System.err by a logger.(‚Ëï8ó¹‘“-
+V
+squid:S106y"9Replace this use of System.out or System.err by a logger.(Œ÷”…8ó¹‘“-
+v
+squid:S135s"YReduce the total number of break and continue statements in this loop to use at most one.(ôÏÌ¢8ó¹‘“-
+n
+squid:S1289"LEnd this switch case with an unconditional break, return or throw statement.(ªëÅŞúÿÿÿÿ8À‘Æ‘“-
+isquid:CommentedOutCodeLine;"<This block of commented-out lines of code should be removed.(±¯€¤8À‘Æ‘“-

@@ -1,0 +1,9 @@
+
+Ysquid:S1197"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿ8ü‘¸“-
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(òáßúÿÿÿÿ8ü‘¸“-
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(¯“¸ı8ü‘¸“-
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(Æñğ½ıÿÿÿÿ8ü‘¸“-
+Vsquid:S1118":Add a private constructor to hide the implicit public one.(Æêªş8ü‘¸“-
+jsquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ŞôÆ†8ü‘¸“-

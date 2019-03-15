@@ -1,0 +1,18 @@
+
+[squid:S1197"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿ8Ğ‘·‘“-
+Psquid:S1199$"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ8Ğ‘·‘“-
+isquid:CommentedOutCodeLine#"<This block of commented-out lines of code should be removed.(Üİ¢¸8Ğ‘·‘“-
+U
+squid:S106"9Replace this use of System.out or System.err by a logger.(Äş!8Ğ‘·‘“-
+U
+squid:S106"9Replace this use of System.out or System.err by a logger.(Äş!8Ğ‘·‘“-
+V
+squid:S106&"9Replace this use of System.out or System.err by a logger.(²ª´8Ğ‘·‘“-
+Š"squid:ClassVariableVisibilityCheck"PMake test a static final constant or non-public and provide accessors if needed.(ŞŸÖ½şÿÿÿÿ8Ğ‘·‘“-
+Dsquid:S1481"&Remove this unused "j" local variable.(«Êœ‡8Ğ‘·‘“-
+Psquid:S1481"2Remove this unused "bitesOfCheese" local variable.(ÍÃÈ8Ğ‘·‘“-
+Psquid:S1481%"-Remove this unused "teenyBit" local variable.( íÃøÿÿÿÿ8Ğ‘·‘“-
+Osquid:S1481)",Remove this unused "nrMeals" local variable.(ìÔœİûÿÿÿÿ8Ğ‘·‘“-
+qsquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ˆÖšíÿÿÿÿÿ8Ğ‘·‘“-
+|squid:S1171"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ8Ğ‘·‘“-
+Ssquid:S1854"5Remove this useless assignment to local variable "j".(«Êœ‡8Ğ‘·‘“-

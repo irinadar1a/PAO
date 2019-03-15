@@ -1,0 +1,8 @@
+
+Osquid:S1133"5Do not forget to remove this deprecated code someday.(¦’¡µùÿÿÿÿ
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ì«¬ç
+csquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¢¥ÉÖ
+]squid:UnusedPrivateMethod"5Remove this unused private "multipleLineComm" method.(¦’¡µùÿÿÿÿ
+›squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¦’¡µùÿÿÿÿ
+Rsquid:MissingDeprecatedCheck"'Add the missing @Deprecated annotation.(¦’¡µùÿÿÿÿ
