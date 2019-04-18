@@ -27,5 +27,7 @@ public class PaoManagement {
 
         System.out.println("the winner is " + paoService.winner());
 
+        
+        System.out.println("The most frequent name in the company is " + paoService.getTheMostFrequentFirstName());
     }
 }

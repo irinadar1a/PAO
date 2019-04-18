@@ -1,8 +1,6 @@
 package toys;
 
 import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.Collections;
 import java.util.HashMap;
 import java.util.HashSet;
 import java.util.Iterator;
@@ -15,6 +13,7 @@ public class PAOToysService {
     private List<Employee> employeeList = new ArrayList<>();
     private Set<String> employeeFirstNames = new HashSet<>();
     private Map<String, Employee> contestants = new HashMap<>();
+    private Map<String, Integer> nameFrequencies = new HashMap<>();
 
     private PAOToysService() {
     }
@@ -62,5 +61,9 @@ public class PAOToysService {
         String winnerNickName = (String) objects[randomIndex];
 
         return contestants.get(winnerNickName);
+    }
+
+    public String getTheMostFrequentFirstName(){
+        return null;
     }
 }
