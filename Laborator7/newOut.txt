@@ -1,0 +1,3 @@
+this is an input stream / output stream example
+we will first use byte streams
+and we will continue with character data (text)
